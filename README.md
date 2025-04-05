@@ -11,7 +11,7 @@ high-quality internet access.
 
 
 ## Pricing Plan
-
+![Just My Socks](https://github.com/user-attachments/assets/b8331b40-7fed-4582-a473-3c04117bb5cc)
 There are four cycles , monthly, quarterly, semi-annually, annually
 Discount different upon payment cycle,  recommend pay annually to save money .
 
